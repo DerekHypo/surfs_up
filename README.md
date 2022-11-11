@@ -7,4 +7,4 @@ Specifically, the temperature data for the months of June and December, in order
 
 # Results:
 
-*The month of June dataset had 1700 recorded temperatures, with a mean of roughly 75 degrees, a minimum of 64 degrees, and a max temperature of 85 degrees.
+* The month of June dataset had 1700 recorded temperatures, with a mean of roughly 75 degrees, a minimum of 64 degrees, and a max temperature of 85 degrees.
